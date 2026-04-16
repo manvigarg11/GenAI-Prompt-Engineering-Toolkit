@@ -1,0 +1,114 @@
+🚀 Overview
+
+The GenAI Prompt Engineering Toolkit is a structured collection of techniques, patterns, and best practices used to design effective prompts for Generative AI models like GPT, Claude, and other LLMs.
+
+This toolkit helps developers, data scientists, and AI enthusiasts create reliable, accurate, and optimized AI outputs across various use cases.
+
+🎯 Objectives
+Improve prompt quality and response accuracy
+Reduce hallucinations and ambiguity
+Standardize prompt design for real-world applications
+Enable reproducibility in AI outputs
+
+
+
+
+🧠 Core Concepts
+1. Prompt Engineering
+
+Prompt Engineering is the process of designing inputs (prompts) to guide AI models toward desired outputs.
+
+
+2. Tokens
+Small units of text processed by models
+Includes words, subwords, or characters
+Impacts cost and response length
+
+
+3. Temperature
+
+Controls randomness in output:
+
+0.0 → Deterministic, factual
+0.7 → Balanced
+1.0+ → Creative, diverse
+
+
+4. Top-p (Nucleus Sampling)
+Controls probability mass
+Lower value → safer responses
+Higher value → more diverse output
+
+
+
+
+🛠️ Prompting Techniques
+🔹 1. Zero-Shot Prompting
+
+No examples provided.
+
+Example:
+
+Translate the following sentence into French: "Hello, how are you?"
+
+
+🔹 2. One-Shot Prompting
+
+Single example included.
+
+Input: "I love coding"
+Output: "J'aime coder"
+
+Now translate: "I love AI"
+
+
+🔹 3. Few-Shot Prompting
+
+Multiple examples for better accuracy.
+
+Input: Apple → Fruit
+Input: Carrot → Vegetable
+Input: Salmon → ?
+
+
+🔹 4. Chain-of-Thought (CoT)
+
+Encourages step-by-step reasoning.
+
+Solve step by step:
+If a train travels 60 km in 1 hour, how far in 5 hours?
+
+
+🔹 5. Role-Based Prompting
+
+Assign a role to guide tone and expertise.
+
+You are a senior data scientist. Explain overfitting in simple terms.
+
+
+🔹 6. Instruction-Based Prompting
+
+Clear and direct instructions.
+
+Summarize the following text in 3 bullet points.
+
+
+🔹 7. Contextual Prompting
+
+Provide background information.
+
+Context: This is a customer support scenario.
+Generate a polite response to a refund request.
+🧩 Prompt Design Framework
+✅ CLEAR Framework
+C → Context
+L → Length (desired output size)
+E → Examples
+A → Action (what to do)
+R → Role
+
+
+Example:
+You are a marketing expert.
+Write a 100-word Instagram caption for a coffee shop.
+Include emojis and a call-to-action.

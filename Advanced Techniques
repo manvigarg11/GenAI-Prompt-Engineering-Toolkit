@@ -1,0 +1,65 @@
+🔸 1. Prompt Chaining
+
+Break complex tasks into multiple prompts.
+
+🔸 2. Self-Consistency
+
+Generate multiple outputs and select the best.
+
+🔸 3. ReAct (Reason + Act)
+
+Combines reasoning with actions (used in agents).
+
+🔸 4. Retrieval-Augmented Generation (RAG)
+Combines external data with LLM
+Improves factual accuracy
+
+
+❌ Common Mistakes
+Vague instructions
+No context provided
+Overly long prompts
+Ignoring output format
+Not iterating on prompts
+
+
+✅ Best Practices
+Be specific and explicit
+Use structured formats (bullets, JSON)
+Define output format clearly
+Iterate and refine prompts
+Test with multiple inputs
+
+
+📦 Example Use Cases
+
+💻 Coding
+Write a Python function to sort a list using merge sort.
+
+📊 Data Analysis
+Analyze this dataset and provide key insights in bullet points.
+
+✍️ Content Writing
+Write a blog intro on AI in healthcare (150 words).
+
+🤖 Chatbots
+Respond as a friendly customer support agent.
+
+🔮 Future Scope
+AI Agents with autonomous decision-making
+Multi-modal prompting (text + image + audio)
+Personalized prompt optimization
+Integration with MLOps pipelines
+
+📚 Resources
+OpenAI Prompt Engineering Guide
+DeepLearning.AI Prompt Engineering Course
+Papers on Chain-of-Thought & RAG
+
+🏁 Conclusion
+
+Prompt Engineering is a critical skill in the GenAI era. A well-designed prompt can significantly enhance the performance, reliability, and usability of AI systems.
+
+⭐ Contribution
+
+Feel free to fork this repository, improve prompts, and contribute new techniques.

@@ -1,0 +1,166 @@
+🏢 Real-World Brand Prompt Examples
+
+This section showcases how prompt engineering can be applied to simulate real-world product and business scenarios inspired by popular platforms.
+
+
+🎬 Netflix – Content Recommendation System
+
+🎯 Goal
+Generate personalized movie recommendations.
+
+🧠 Prompt
+You are a recommendation system for Netflix.
+Suggest 5 movies for a user who likes sci-fi, time travel, and mind-bending plots.
+Include a short reason for each recommendation.
+✅ Expected Output
+Personalized recommendations
+Explanation for each suggestion
+Genre-aware results
+💡 Insight
+Uses context + preference-based prompting
+Mimics real recommendation engines
+
+
+
+
+🍔 Swiggy – Food Recommendation Assistant
+🎯 Goal
+
+Help users decide what to order.
+
+🧠 Prompt
+You are a food assistant for Swiggy.
+Suggest 5 dishes for a user who wants something spicy, vegetarian, and under ₹300.
+Include cuisine type and why it fits.
+✅ Expected Output
+Budget-aware suggestions
+Taste-based filtering
+Clear reasoning
+💡 Insight
+Combines constraints + personalization
+Useful for real-time decision systems
+
+
+
+
+🛒 Amazon – Product Description Generator
+🎯 Goal
+
+Create high-converting product listings.
+
+🧠 Prompt
+You are an Amazon product copywriter.
+Write a product description for a smart fitness watch.
+Include features, benefits, and a persuasive tone.
+✅ Expected Output
+Bullet-point features
+Benefit-driven language
+Conversion-focused copy
+💡 Insight
+Demonstrates marketing + structured output prompting
+
+
+
+
+🚗 Uber – Ride Experience Assistant
+🎯 Goal
+
+Improve customer experience messaging.
+
+🧠 Prompt
+You are an Uber assistant.
+Generate a polite message informing a user that their driver will arrive in 5 minutes.
+Keep it friendly and professional.
+✅ Expected Output
+Clear communication
+Friendly tone
+Short and precise
+💡 Insight
+Focus on tone control and UX writing
+
+
+
+
+🎧 Spotify – Playlist Generator
+🎯 Goal
+Create personalized playlists.
+
+🧠 Prompt
+You are a Spotify playlist curator.
+Create a playlist of 8 songs for a late-night chill vibe.
+Include song name and artist.
+✅ Expected Output
+Mood-based selection
+Structured list
+Consistent theme
+💡 Insight
+Uses emotion + context prompting
+
+
+
+
+📸 Instagram – Caption Generator
+🎯 Goal
+Boost engagement through captions.
+
+🧠 Prompt
+You are a social media expert.
+Write an Instagram caption for a sunset cafe photo.
+Include emojis, hashtags, and a call-to-action.
+✅ Expected Output
+Engaging caption
+Hashtags included
+CTA for interaction
+💡 Insight
+Combines branding + engagement optimization
+
+
+
+
+🏨 Airbnb – Listing Description Generator
+🎯 Goal
+Create attractive property listings.
+
+🧠 Prompt
+You are an Airbnb host.
+Write a listing description for a cozy room in Pushkar with a lake view.
+Highlight comfort, location, and experience.
+✅ Expected Output
+Descriptive storytelling
+Highlighted amenities
+Emotional appeal
+💡 Insight
+Uses experience-driven prompting
+
+
+
+🎓 Duolingo – Learning Assistant
+🎯 Goal
+Help users learn new languages interactively.
+
+🧠 Prompt
+You are a language tutor.
+Teach basic Spanish greetings with examples and pronunciation tips.
+✅ Expected Output
+Step-by-step explanation
+Examples included
+Easy to understand
+💡 Insight
+Focus on educational clarity + structure
+
+
+
+
+🧾 Zomato – Review Summarizer
+🎯 Goal
+Summarize customer reviews.
+
+🧠 Prompt
+Summarize the following restaurant reviews in 3 bullet points.
+Highlight positives and negatives.
+✅ Expected Output
+Concise summary
+Balanced feedback
+Actionable insights
+💡 Insight
+Demonstrates information compression + sentiment analysis
